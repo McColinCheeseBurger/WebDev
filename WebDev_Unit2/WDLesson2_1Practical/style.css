@@ -14,8 +14,8 @@ h3 {
 }
 
 /* Challenge 2: Change the size for the font for all headings size 1 to 60pt */
-span {
-  font-style: italic;
+h1 {
+  font-size: 60pt;
 }
             
 /* Challenge 3: Change the style of the font for all spans to italic */
